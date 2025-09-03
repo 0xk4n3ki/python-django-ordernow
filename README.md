@@ -7,3 +7,5 @@
 3. [Part 3 – Writing more views and using templates](https://docs.djangoproject.com/en/5.2/intro/tutorial03/)
 
 4. [Part 4 – Forms and generic views](https://docs.djangoproject.com/en/5.2/intro/tutorial04/)
+
+5. [Part 5 – Automated testing](https://docs.djangoproject.com/en/5.2/intro/tutorial05/)
