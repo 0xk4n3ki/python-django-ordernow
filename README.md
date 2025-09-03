@@ -9,3 +9,5 @@
 4. [Part 4 – Forms and generic views](https://docs.djangoproject.com/en/5.2/intro/tutorial04/)
 
 5. [Part 5 – Automated testing](https://docs.djangoproject.com/en/5.2/intro/tutorial05/)
+
+6. [Part 6 – Customizing your app’s look and feel](https://docs.djangoproject.com/en/5.2/intro/tutorial06/)
