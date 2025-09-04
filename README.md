@@ -13,3 +13,5 @@
 6. [Part 6 – Customizing your app’s look and feel](https://docs.djangoproject.com/en/5.2/intro/tutorial06/)
 
 7. [Part 7 – Customizing the Django Admin](https://docs.djangoproject.com/en/5.2/intro/tutorial07/)
+
+8. [Part 8 – Using Django’s debug and third-party packages](https://docs.djangoproject.com/en/5.2/intro/tutorial08/)
