@@ -11,3 +11,5 @@
 5. [Part 5 – Automated testing](https://docs.djangoproject.com/en/5.2/intro/tutorial05/)
 
 6. [Part 6 – Customizing your app’s look and feel](https://docs.djangoproject.com/en/5.2/intro/tutorial06/)
+
+7. [Part 7 – Customizing the Django Admin](https://docs.djangoproject.com/en/5.2/intro/tutorial07/)
